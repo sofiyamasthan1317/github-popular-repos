@@ -1,0 +1,37 @@
+.item-list-container {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #f8f8ff;
+  border-radius: 10px;
+  height: 250px;
+  width: 180px;
+  padding: 8px;
+  margin: 10px;
+}
+.avatar {
+  height: 50px;
+  width: 50px;
+  text-align: center;
+}
+.name {
+  text-align: center;
+  color: #e73959;
+  font-size: 20px;
+  font-weight: bold;
+}
+.count-container {
+  display: flex;
+  flex-direction: row;
+}
+.icon {
+  height: 20px;
+  width: 20px;
+  margin-top: 12px;
+}
+.count {
+  color: #1e293b;
+  font-size: 14px;
+  margin-left: 5px;
+}
