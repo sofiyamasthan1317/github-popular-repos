@@ -1,4 +1,4 @@
-In this project, let's build a **Github Popular Repos** by applying the concepts we have learned till now.
+
 
 ### Refer to the images below:
 
@@ -117,7 +117,7 @@ Returns a response containing the list of repositories
 <summary>Implementation Files</summary>
 <br/>
 
-Use these files to complete the implementation:
+Used these files to complete the implementation:
 
 - `src/components/GithubPopularRepos/index.js`
 - `src/components/GithubPopularRepos/index.css`
